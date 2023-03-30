@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/TalkingClock/.vs/TalkingClock
+/TalkingClock/TalkingClock/obj/Release
+/TalkingClock/TalkingClock/obj/Debug
+/TalkingClock/TalkingClock/bin/Debug
+/TalkingClock/TalkingClock.UnitTest/bin/Debug
+/TalkingClock/TalkingClock.UnitTest/obj
